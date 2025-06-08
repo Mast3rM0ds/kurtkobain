@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "description": "Modern, responsive websites built with cutting-edge technologies",
+    "category": "Development",
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "description": "Modern, responsive websites built with cutting-edge technologies",
+    "category": "Development",
+    "color": "blue"
+  }
+]
